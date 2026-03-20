@@ -1,0 +1,11 @@
+export { Dashboard } from './dashboard';
+export { Ventas } from './ventas';
+export { Inventario } from './inventario';
+export { Bodega } from './bodega';
+export { Clientes } from './clientes';
+export { Gastos } from './gastos';
+export { Compras } from './compras';
+export { Proveedores } from './proveedores';
+export { Historial } from './historial';
+export { Reportes } from './reportes';
+export { Configuracion } from './configuracion';
